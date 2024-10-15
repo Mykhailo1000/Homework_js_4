@@ -1,0 +1,14 @@
+{
+  "name": "homework_js_4",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
